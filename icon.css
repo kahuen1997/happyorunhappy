@@ -1,0 +1,13 @@
+.col-sm-3{
+    background-image: url('Photo_1/Chiikawa-Toilet-Badge-Usagi.webp') ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    z-index: 1;
+}
+
+.card:hover{
+    border: 5px solid gold;
+    transition: 1s;
+}
+
